@@ -1,0 +1,9 @@
+Corvallis.csv, salem.csv: original temperature data
+
+data.py: Python code to extract day and average temperature from original dataset
+
+day_salem.csv, temp_salem.csv: day and temperature data for Salem
+
+day.csv, temp.csv: day and temperature data for Corvallis
+
+code.m: matlab code to solve linear programming
